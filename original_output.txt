@@ -153,8 +153,8 @@ Modify Date                     : 2026:04:27 17:32:17+10:00
 Thumbnail Image                 : (Binary data 4909 bytes, use -b option to extract)
 GPS Altitude                    : 23.7 m Above Sea Level
 GPS Date/Time                   : 2026:04:27 07:32:16Z
-GPS Latitude                    : 33 deg 54' 35.05" S
-GPS Longitude                   : 151 deg 12' 39.32" E
+GPS Latitude                    : -33.91
+GPS Longitude                   : 151.21
 MP Image 2                      : (Binary data 424750 bytes, use -b option to extract)
 Circle Of Confusion             : 0.008 mm
 Field Of View                   : 73.7 deg
