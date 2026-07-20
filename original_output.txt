@@ -1,0 +1,165 @@
+ExifTool Version Number         : 13.55
+File Name                       : FullSizeRender.jpeg
+Directory                       : .
+File Size                       : 2.7 MB
+File Modification Date/Time     : 2026:07:17 18:09:32+10:00
+File Access Date/Time           : 2026:07:17 18:15:59+10:00
+File Inode Change Date/Time     : 2026:07:17 18:09:33+10:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone 17 Pro Max
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 26.3.1
+Modify Date                     : 2026:04:27 17:32:17
+Host Computer                   : iPhone 17 Pro Max
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/75
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 200
+Exif Version                    : 0232
+Date/Time Original              : 2026:04:27 17:32:17
+Create Date                     : 2026:04:27 17:32:17
+Offset Time                     : +10:00
+Offset Time Original            : +10:00
+Offset Time Digitized           : +10:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/75
+Aperture Value                  : 1.8
+Brightness Value                : 1.424735365
+Exposure Compensation           : -1.07
+Metering Mode                   : Spot
+Flash                           : Off, Did not fire
+Focal Length                    : 6.8 mm
+Subject Area                    : 3693 1160 1065 1071
+Maker Note Version              : 16
+Run Time Flags                  : Valid
+Run Time Value                  : 192625628239375
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 204
+AE Average                      : 95
+AF Stable                       : Yes
+Acceleration Vector             : 0.02030855977 -1.000133038 0.03583774717
+Focus Distance Range            : 0.16 - 0.41 m
+Content Identifier              : 9E4F5CF4-7678-43A2-8748-C2F66C70BF81
+Image Capture Type              : Scene
+Live Photo Video Index          : 8595224612
+Luminance Noise Amplitude       : 0.01300000027
+Photos App Feature Flags        : 1
+HDR Headroom                    : 1.00999999
+AF Performance                  : -7522450 1 21
+Signal To Noise Ratio           : 38.02838898
+Photo Identifier                : 8916B64A-A52E-4447-9893-B26495328DE0
+Color Temperature               : 5553
+Camera Type                     : Back Normal
+Focus Position                  : 50
+HDR Gain                        : 1.634863258
+AF Measured Depth               : 1067
+AF Confidence                   : 0
+Sub Sec Time Original           : 751
+Sub Sec Time Digitized          : 751
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 3213
+Exif Image Height               : 5712
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 24 mm
+Scene Capture Type              : Standard
+Lens Info                       : 2.220000029-16.890625mm f/1.779999971-2.798828125
+Lens Make                       : Apple
+Lens Model                      : iPhone 17 Pro Max back triple camera 6.765mm f/1.78
+Composite Image                 : General Composite Image
+GPS Latitude Ref                : South
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 07:32:16
+GPS Speed Ref                   : km/h
+GPS Speed                       : 0
+GPS Img Direction Ref           : True North
+GPS Img Direction               : 297.8941345
+GPS Dest Bearing Ref            : True North
+GPS Dest Bearing                : 297.8941345
+GPS Date Stamp                  : 2026:04:27
+GPS Horizontal Positioning Error: 13.64295143 m
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 3350
+Thumbnail Length                : 4909
+MPF Version                     : 0100
+Number Of Images                : 2
+MP Image Flags                  : (none)
+MP Image Format                 : JPEG
+MP Image Type                   : Undefined
+MP Image Length                 : 424750
+MP Image Start                  : 2228675
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+Uniform Resource Name           : urn:iso:std:iso:ts:21496:-1
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+HDR Gain Curve Size             : 356
+HDR Gain Curve                  : (Binary data 2586 bytes, use -b option to extract)
+Image Width                     : 3213
+Image Height                    : 5712
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 2 days 5:30:26
+Aperture                        : 1.8
+Image Size                      : 3213x5712
+Megapixels                      : 18.4
+Scale Factor To 35 mm Equivalent: 3.5
+Shutter Speed                   : 1/75
+Create Date                     : 2026:04:27 17:32:17.751+10:00
+Date/Time Original              : 2026:04:27 17:32:17.751+10:00
+Modify Date                     : 2026:04:27 17:32:17+10:00
+Thumbnail Image                 : (Binary data 4909 bytes, use -b option to extract)
+GPS Altitude                    : 23.7 m Above Sea Level
+GPS Date/Time                   : 2026:04:27 07:32:16Z
+GPS Latitude                    : 33 deg 54' 35.05" S
+GPS Longitude                   : 151 deg 12' 39.32" E
+MP Image 2                      : (Binary data 424750 bytes, use -b option to extract)
+Circle Of Confusion             : 0.008 mm
+Field Of View                   : 73.7 deg
+Focal Length 35mm Equiv         : 6.8 mm (35 mm equivalent: 24.0 mm)
+GPS Position                    : 33 deg 54' 35.05" S, 151 deg 12' 39.32" E
+Hyperfocal Distance             : 3.04 m
+Light Value                     : 6.9
+Lens ID                         : iPhone 17 Pro Max back triple camera 6.765mm f/1.78
