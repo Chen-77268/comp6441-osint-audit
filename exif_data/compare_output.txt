@@ -1,0 +1,28 @@
+=== ORIGINAL PHONE PHOTO ===
+Make                            : Apple
+Camera Model Name               : iPhone 17 Pro Max
+Host Computer                   : iPhone 17 Pro Max
+Date/Time Original              : 2026:04:27 17:32:17
+Focal Length                    : 6.8 mm
+Maker Note Version              : 16
+Focal Length In 35mm Format     : 24 mm
+Lens Make                       : Apple
+Lens Model                      : iPhone 17 Pro Max back triple camera 6.765mm f/1.78
+GPS Latitude Ref                : South
+GPS Longitude Ref               : East
+Date/Time Original              : 2026:04:27 17:32:17.751+10:00
+GPS Latitude                    : 33 deg 54' 35.05" S
+GPS Longitude                   : 151 deg 12' 39.32" E
+Focal Length 35mm Equiv         : 6.8 mm (35 mm equivalent: 24.0 mm)
+
+=== WECHAT DOWNLOADED PHOTO ===
+Host Computer                   : iPhone 17 Pro Max
+Focal Length                    : 6.8 mm
+Maker Note Version              : 16
+Warning                         : [minor] Bad format (16) for MakerNotes entry 15
+Focal Length In 35mm Format     : 24 mm
+Lens Make                       : Apple
+Lens Model                      : iPhone 17 Pro Max back triple camera 6.765mm f/1.78
+GPS Latitude Ref                : South
+GPS Longitude Ref               : East
+Focal Length 35mm Equiv         : 6.8 mm (35 mm equivalent: 24.0 mm)
